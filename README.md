@@ -1,4 +1,4 @@
-mpkc
+rsa
 ====
 
-Thesis on Multivariate Public Key Cryptosystems
+Little Java RSA Implementation
